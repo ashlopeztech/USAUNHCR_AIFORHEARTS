@@ -1,1 +1,7 @@
 # USAUNHCR_AIFORHEARTS
+USA for United Nations High Commissioner for Refugees (UNHCR) tasked our group to solve the following problem: use email campaign data and machine learning models to predict who is likely to donate to target potential donors. Donor predictions based on previous data will result in cost savings within campaign budgets and could increase donor revenue. USA for UNHCR has an email list of over 40k people across the globe. Email donation campaigns are expensive to run, but we were able to use three machine learning models (K-Nearest Neighbor, Linear Regression, and Decision Trees) to target roughly 3,000 email contacts rather than 26,000. 
+
+The team and I approached solving this problem with machine learning models we were familiar with, including K-Nearest Neighbor, Linear Regression, and Decision Trees. We used a simple approach to reach our deliverable goals. Everyone cleaned and prepared the data while we split data training one model per person. I was in charge of the KNN model.
+
+The data was given to us by USA for UNHCR in three separate data sets. 
+The KNN model needs refinement so the results can give better business value and predictions. I will add more features to the training data set to create better predictive results. I would also like to deploy the project to AWS with the Django framework to scale the use and impact in helping refugees across the globe.
